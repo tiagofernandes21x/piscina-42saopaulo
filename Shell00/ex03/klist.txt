@@ -1,0 +1,6 @@
+Credentials cache: API:BAAE93D0-AFEE-412B-AB02-087D7065D4C8
+        Principal: edbarbos@42SP.ORG.BR
+
+  Issued                Expires               Principal
+Nov 21 03:32:26 2019  Nov 28 03:32:26 2019  krbtgt/42SP.ORG.BR@42SP.ORG.BR
+Nov 21 04:25:04 2019  Nov 28 03:32:26 2019  host/vogsphere.42sp.org.br@42SP.ORG.BR
